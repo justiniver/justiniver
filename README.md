@@ -6,7 +6,7 @@
 - Currently, I work as an Investment Strategy SWE ❗️
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justiniver/<REPO_NAME>/output/github-snake-dark.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/justiniver/<REPO_NAME>/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justiniver/snake_vis/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/justiniver/snake_vis/output/github-snake.svg">
 </picture>
 
